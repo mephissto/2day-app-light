@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mephissto",
+    "longName": "2Day App Light Watchapp",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/2day.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Gotham Nights.ttf",
+                "name": "FONT_KEY_GOTHAM_32",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Gotham Nights.ttf",
+                "name": "FONT_KEY_GOTHAM_78",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "2Day App Light",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "6b47eaa0-0e96-4c2c-b03b-760e63a75371",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
